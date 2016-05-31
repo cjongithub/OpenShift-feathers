@@ -1,6 +1,6 @@
 {
   "host": "http://briodev-larastock.rhcloud.com/",
-  "mongodb": "mongodb://dbadmin:$ailAround#62@ds017231.mlab.com:17231/bd_mongodb",
+  "mongodb": "DB Here",
   "public": "../public/",
   "auth": {
     "token": {
