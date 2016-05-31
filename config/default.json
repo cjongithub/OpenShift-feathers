@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://dbadmin:$ailAround#62@ds017231.mlab.com:17231/bd_mongodb",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "TpJ1s68hm/xpvbCwB6Mo2BdfdWuMLmy8XD0JZYu19OaKGiMpHce3G3VihzQJv8NGphGnysojfLIUqEjoZPbAqg=="
+    },
+    "local": {}
+  }
+}

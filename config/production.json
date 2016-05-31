@@ -1,0 +1,11 @@
+{
+  "host": "http://briodev-larastock.rhcloud.com/",
+  "mongodb": "mongodb://dbadmin:$ailAround#62@ds017231.mlab.com:17231/bd_mongodb",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "FEATHERS_AUTH_SECRET"
+    },
+    "local": {}
+  }
+}
