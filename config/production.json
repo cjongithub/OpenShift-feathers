@@ -1,6 +1,6 @@
 {
   "host": "webhost here",
-  "mongodb": "DB Here",
+  "mongodb": "OPENSHIFT_MONGODB_DB_URL",
   "public": "../public/",
   "auth": {
     "token": {
