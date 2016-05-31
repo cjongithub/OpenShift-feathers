@@ -1,5 +1,5 @@
 {
-  "host": "http://briodev-larastock.rhcloud.com/",
+  "host": "webhost here",
   "mongodb": "DB Here",
   "public": "../public/",
   "auth": {
