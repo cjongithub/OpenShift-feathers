@@ -22,25 +22,25 @@
     "mocha": "mocha test/ --recursive"
   },
   "dependencies": {
-    "body-parser": "^1.15.1",
+    "body-parser": "^1.15.2",
     "compression": "^1.6.2",
-    "cors": "^2.7.1",
-    "feathers": "^2.0.1",
-    "feathers-authentication": "^0.7.7",
-    "feathers-configuration": "^0.2.3",
-    "feathers-errors": "^2.2.0",
-    "feathers-hooks": "^1.5.4",
-    "feathers-mongoose": "^3.3.7",
-    "feathers-rest": "^1.4.1",
-    "feathers-socketio": "^1.4.1",
-    "mongoose": "^4.4.19",
+    "cors": "^2.8.1",
+    "feathers": "^2.0.3",
+    "feathers-authentication": "^0.7.12",
+    "feathers-configuration": "^0.3.3",
+    "feathers-errors": "^2.5.0",
+    "feathers-hooks": "^1.7.1",
+    "feathers-mongoose": "^3.6.1",
+    "feathers-rest": "^1.6.0",
+    "feathers-socketio": "^1.4.2",
+    "mongoose": "^4.7.6",
     "passport": "^0.3.2",
-    "serve-favicon": "^2.3.0",
-    "winston": "^2.2.0"
+    "serve-favicon": "^2.3.2",
+    "winston": "^2.3.0"
   },
   "devDependencies": {
-    "jshint": "^2.9.2",
-    "mocha": "^2.5.3",
-    "request": "^2.72.0"
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
   }
 }
