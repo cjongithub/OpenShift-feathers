@@ -1,5 +1,6 @@
 {
-  "host": "webhost here",
+  "host": "featherschat-featherschat.44fs.preview.openshiftapps.com",
+  "port": 27017,
   "mongodb": "OPENSHIFT_MONGODB_DB_URL",
   "public": "../public/",
   "auth": {
